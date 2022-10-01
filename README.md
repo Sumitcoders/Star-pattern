@@ -1,2 +1,2 @@
 # Star-pattern
-this was the question from my friend and this is the answer to this
+this was the question from my friend(@VivekCoders) and this is the answer to this
